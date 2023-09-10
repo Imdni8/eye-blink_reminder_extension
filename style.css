@@ -4,12 +4,25 @@ body {
     margin: 1em auto;
     border: 2px lightcoral solid;
     border-radius: 8px;
+    padding: 2em;
+}
+
+p {
+    margin-bottom: 1em;
 }
 
 .timer h1 {
-    margin-bottom: 4px;
+    margin: 0 auto;
 }
 
 .timer h3 {
     margin-top: 4px;
+}
+
+button {
+    width: 260px;
+    padding: 1em 2em;
+    font-size: 1em;
+    font-weight: 500;
+    margin-top: 1em;
 }

@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Eye Blink Reminder",
+  "version": "1.0",
+  "description": "Reminds you to blink every 20 minutes following the 20-20-20 rule.",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Eye Blink Reminder"
+  }
+}
